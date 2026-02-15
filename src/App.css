@@ -1308,3 +1308,25 @@
 .footer__wa-float:hover {
   transform: scale(1.05);
 }
+.footer__call-float {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 1.5rem;
+  z-index: 50;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--color-black);
+  background: linear-gradient(180deg, #fcd34d 0%, var(--color-yellow) 60%, #e6b410 100%);
+  border-radius: 999px;
+  box-shadow: var(--shadow-md);
+  transition: transform var(--transition);
+}
+
+.footer__call-float:hover {
+  transform: scale(1.05);
+}
+

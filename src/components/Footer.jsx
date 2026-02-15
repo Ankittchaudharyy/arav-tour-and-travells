@@ -28,6 +28,14 @@ export default function Footer() {
       >
         WhatsApp
       </a>
+      {/* 🔥 LEFT Bottom Call Button */}
+      <a
+        href="tel:+919911921495"
+        className="footer__call-float"
+        aria-label="Call Now"
+      >
+        📞 Call Now
+      </a>
       <div className="footer__container">
         <div className="footer__top">
           <div className="footer__block">

@@ -1,7 +1,7 @@
 export default function CarCard({
   car,
   phoneNumber = "+91-9911921495",
-  whatsappNumber = "9911921495",
+  whatsappNumber = "+91-9911921495",
 }) {
   const whatsappUrl = `https://wa.me/${whatsappNumber.replace(/\D/g, "")}`;
   const telUrl = `tel:+${phoneNumber.replace(/\D/g, "")}`;
