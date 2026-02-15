@@ -41,7 +41,7 @@ export default function Header() {
             </svg>
           </span>
           <span className="header__logo-text">
-            <strong>Arav Tour and Travells</strong>
+            <strong>Arav Travels Greater Noida</strong>
             <span className="header__tagline">Best In NCR</span>
           </span>
         </a>

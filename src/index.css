@@ -1,6 +1,6 @@
-/* Greno Taxi Services - Global Styles */
+/* Arav Travels - Global Styles */
 :root {
-  --color-white: #ffffff;
+  --color-white: hsl(0, 0%, 100%);
   --color-yellow: #f5c518;
   --color-yellow-dark: #e6b410;
   --color-yellow-light: #fef3c7;

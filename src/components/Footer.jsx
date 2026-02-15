@@ -41,8 +41,9 @@ export default function Footer() {
           <div className="footer__block">
             <h3 className="footer__heading">About Us</h3>
             <p className="footer__about">
-              At Greno Taxi Service, we take pride in offering top-notch Cab
-              services to our valued customers.
+              At Arav Travels, we provide reliable and affordable taxi service
+              in Greater Noida and Delhi NCR. Our goal is to ensure safe,
+              comfortable and on-time rides for every customer.
             </p>
           </div>
           <div className="footer__block">
@@ -77,7 +78,7 @@ export default function Footer() {
             <p className="footer__contact-item">
               <strong>Email</strong>
               <br />
-              <a href="mailto:contact@grenotaxi.com">contact@arav.com</a>
+              <a href="mailto:contact@aravtravels.com">contact@arav.com</a>
             </p>
           </div>
         </div>
@@ -86,7 +87,7 @@ export default function Footer() {
             Call Now
           </a>
           <a
-            href="https://wa.me/9911921495"
+            href="https://wa.me/919911921495"
             target="_blank"
             rel="noopener noreferrer"
             className="footer__cta-link"
