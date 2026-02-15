@@ -20,7 +20,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer__skyline" aria-hidden="true" />
       <a
-        href="https://wa.me/9911921495"
+        href="https://wa.me/919911921495"
         target="_blank"
         rel="noopener noreferrer"
         className="footer__wa-float"
